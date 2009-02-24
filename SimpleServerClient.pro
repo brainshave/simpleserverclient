@@ -13,3 +13,4 @@ HEADERS += logwindow.h \
     server.h \
     serverthread.h \
     client.h
+OTHER_FILES += README.textile
