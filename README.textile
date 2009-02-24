@@ -1,4 +1,4 @@
-.h2 Simple Client Sever in Qt
+**Simple Client Sever in Qt**
 
 # Project for learning purposes.
 # local connections only, on port 7890.
