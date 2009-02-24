@@ -1,0 +1,5 @@
+.h1 Simple Client Sever in Qt
+
+# Project for learning purposes.
+# local connections only, on port 7890.
+# You can use RAW PuTTY mode or build-in client
